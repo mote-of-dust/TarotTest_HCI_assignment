@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TarotTest</string>
+    <string name="defaultval">Your sanity wanes as you wait to draw a card....</string>
+</resources>
